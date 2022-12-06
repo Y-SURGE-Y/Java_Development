@@ -3,26 +3,40 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
 
+
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
-        boolean b = arnums(a);
-        System.out.println(b);
-
+        int b = sc.nextInt();
+        int c = sc.nextInt();
+        System.out.println("Enter Choice -> 1 for Maximum Number  -> 2 for Minimum Number ");
+        int x = sc.nextInt();
+        switch (x){
+            case 1:
+                int t = max(a,b,c);
+                System.out.println(t);
+                break;
+            case 2:
+                int y = min(a,b,c);
+                System.out.println(y);
+                break;
+        }
     }
-    static boolean arnums(int a){
-        int sum=0;
-        int temp = a;
-        while (a>0) {
-            int rem = 0;
-            rem = a % 10;
-            int c = rem * rem * rem;
-            sum+=c;
-            a = a / 10;
+    static int max(int a , int b , int c){
+        if(a>b && a>c){
+            return a;
+        }else if(c>b && c>a){
+            return c;
+        }else {
+            return b;
         }
-        if (sum == temp){
-            return true;
+    }
+    static int min(int a , int b , int c){
+        if(c<a && c<b){
+            return c;
+        }else if(b<a && b<c){
+            return b;
+        }else {
+            return a;
         }
-        else
-            return false;
     }
 }
