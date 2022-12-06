@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="989236b5-efa1-4e8a-8dcc-46dd607f7fc3" name="Changes" comment="Palindrome Number (Three Digit)">
+    <list default="true" id="989236b5-efa1-4e8a-8dcc-46dd607f7fc3" name="Changes" comment="Greatest Of Three Numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -25,7 +25,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670345399973</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Greatest Of Three Numbers">
+      <created>1670348269543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670348269543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +76,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup With Hello World" />
     <MESSAGE value="Palindrome Number (Three Digit)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindrome Number (Three Digit)" />
+    <MESSAGE value="Greatest Of Three Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greatest Of Three Numbers" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
