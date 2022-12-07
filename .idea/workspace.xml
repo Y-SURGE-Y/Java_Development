@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="989236b5-efa1-4e8a-8dcc-46dd607f7fc3" name="Changes" comment="Greatest Of Three Numbers">
+    <list default="true" id="989236b5-efa1-4e8a-8dcc-46dd607f7fc3" name="Changes" comment="Factorial of a Number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670348269543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Factorial of a Number">
+      <created>1670350652753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670350652753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,7 +84,8 @@
     <MESSAGE value="Setup With Hello World" />
     <MESSAGE value="Palindrome Number (Three Digit)" />
     <MESSAGE value="Greatest Of Three Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greatest Of Three Numbers" />
+    <MESSAGE value="Factorial of a Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factorial of a Number" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
